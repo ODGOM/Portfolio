@@ -1,0 +1,54 @@
+.top {
+  background-color: #1a0f0a; /* deep brown-black */
+  border: 2px solid #ff7b00; /* warm orange border */
+  box-shadow: 0 2px 8px #ff7b00; /* subtle orange glow */
+  text-align: center;
+  padding: 10px;
+}
+
+/* Navigation links */
+.top nav ul {
+  list-style: none; /* remove dots */
+  padding: 0;
+  margin: 0;
+  display: flex; /* make horizontal */
+  justify-content: center;
+  gap: 20px;
+}
+
+.top nav a {
+  color: #ffb84d; /* soft orange for readability */
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+  transition: 0.3s ease;
+}
+
+.top nav a:hover {
+  text-shadow: 0 0 10px #ffb84d;
+  color: #ffd580; /* lighter orange on hover */
+}
+
+/* Body */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 20px;
+  background-color: #2b1a12; /* dark brown background */
+  border: 2px solid #ff7b00;
+  border-radius: 5px;
+  color: #ffb84d; /* soft orange text */
+}
+
+/* Text styling */
+p {
+  color: #ffb84d;
+  font-size: 16px;
+}
+
+h1, h2, h3 {
+  color: #ff8c1a; /* professional orange for headers */
+  font-size: 22px;
+  text-shadow: 0 0 6px rgba(255, 140, 26, 0.3);
+}
+
