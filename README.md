@@ -11,7 +11,7 @@ I have experience with HTML, CSS, Java, C#, and more.
 - Custom styling using pure HTML & CSS
 
 ##  Live Demo
-🔗  https://odgom.github.io/Portfolio/
+🔗  [View my website here]https://odgom.github.io/Portfolio/
 
 ##  Technologies Used
 - HTML5  
